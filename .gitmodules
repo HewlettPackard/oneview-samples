@@ -1,0 +1,4 @@
+[submodule "oneview-osdeployment"]
+	path = oneview-osdeployment
+	url = https://github.com/HewlettPackard/oneview-osdeployment.git
+	branch = master
