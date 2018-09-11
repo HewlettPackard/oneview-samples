@@ -2,3 +2,18 @@
 	path = oneview-osdeployment
 	url = https://github.com/HewlettPackard/oneview-osdeployment.git
 	branch = master
+
+[submodule "oneview-powershell-samples"]
+	path = oneview-powershell-samples
+	url = https://github.com/HewlettPackard/oneview-powershell-samples.git
+	branch = master
+
+[submodule "oneview-python-samples"]
+	path = oneview-python-samples
+	url = https://github.com/HewlettPackard/oneview-python-samples.git
+	branch = master
+
+[submodule "oneview-ansible-samples"]
+	path = oneview-ansible-samples
+	url = https://github.com/HewlettPackard/oneview-ansible-samples.git
+	branch = master
